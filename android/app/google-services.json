@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "509202519432",
+    "project_id": "my-fine-tech-app",
+    "storage_bucket": "my-fine-tech-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509202519432:android:0d0b5d22ed81ff5fdc963d",
+        "android_client_info": {
+          "package_name": "com.example.my_fintech_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9zvz54Eg_lM0weNDLi3EA2o9yijkuPmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
